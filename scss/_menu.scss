@@ -84,7 +84,7 @@
         height:250px;
         margin-left:50px;
         margin-top:10px;
-        background:url('../img/port1.jpg');
+        background:url('../img/port1.jpg')center;
         border-radius:50%;
         border:solid 3px $secondary-color;
         @include ease0ut;
